@@ -1,0 +1,2 @@
+Skolko bit v baite? (+8,-3,-4,-16,+3)
+Skolko jopa? (+1,-2,-3,-4)

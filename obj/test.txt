@@ -1,0 +1,2 @@
+Skolko bit v baite? (+8,-3,-4,-16)
+Osnovnoi format failov v bloknote (-exe, -png, +txt, -docx)
